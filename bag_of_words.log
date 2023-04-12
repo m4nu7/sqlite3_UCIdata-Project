@@ -1,0 +1,16 @@
+2023-04-11 18:48:13,588 - Zip_DBcreate_store - INFO - ======== Zip_DBcreate_store function START =============
+2023-04-11 18:48:13,589 - Zip_DBcreate_store - INFO - ================ Connection Established ===================
+2023-04-11 18:48:13,589 - Zip_DBcreate_store - INFO - ================ Cursor Created ===================
+2023-04-11 18:48:13,600 - Zip_DBcreate_store - INFO - ================ Table Created ===================
+2023-04-11 18:48:13,600 - Zip_DBcreate_store - INFO - DB closed
+2023-04-11 18:48:13,600 - Zip_DBcreate_store - INFO - ======== Zip_DBcreate_store function START =============
+2023-04-11 18:48:13,717 - Zip_DBcreate_store - INFO - ================ Starting to insert Values ===================
+2023-04-11 18:48:13,944 - Zip_DBcreate_store - INFO - DB closed
+2023-04-12 11:12:35,169 - Zip_DBcreate_store - INFO - ======== Zip_DBcreate_store function START =============
+2023-04-12 11:12:35,173 - Zip_DBcreate_store - INFO - ================ Connection Established ===================
+2023-04-12 11:12:35,173 - Zip_DBcreate_store - INFO - ================ Cursor Created ===================
+2023-04-12 11:12:35,177 - Zip_DBcreate_store - INFO - ================ Table Created ===================
+2023-04-12 11:12:35,177 - Zip_DBcreate_store - INFO - DB closed
+2023-04-12 11:12:35,177 - Zip_DBcreate_store - INFO - ======== Zip_DBcreate_store function START =============
+2023-04-12 11:12:35,360 - Zip_DBcreate_store - INFO - ================ Starting to insert Values ===================
+2023-04-12 11:12:35,536 - Zip_DBcreate_store - INFO - DB closed
