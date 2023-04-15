@@ -225,9 +225,10 @@ class txtop:
             logger4.info("================ Starting to insert Values ===================")
             for data in zip(*zipin_dict.values()):  # * for undoing one level of list in dict.values()
                 # print(data)
-                query = f"INSERT INTO words values{tuple(data)}"
+                query = f"INSERT INTO words (file1txt, file2txt, file3txt, file4txt, file5txt) values(?, ?, ?, ?, ?);"
                 print(query)
-                cur.execute(query)
+                cur.execute(query, tuple(data))
+                mydb.commit()
         except Exception as e:
             logger4.error("Thissssssss!!!!" + str(e))
         finally :
